@@ -1,0 +1,8 @@
+.img-horaire img {
+  width: 100%;
+  border-radius: 4px;
+}
+
+.days-open {
+  font-size: 24px;
+}

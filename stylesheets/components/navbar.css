@@ -1,0 +1,23 @@
+.navbar{
+  background: #CC2638;
+  padding: 10px 20px !important;
+  margin:0;
+  height: 90px;
+}
+
+.navbar img {
+  height: 70px;
+}
+
+.navbar li {
+  list-style-type: none;
+}
+
+.navbar a {
+  color: white;
+  font-size: 22px;
+}
+
+.btn-nav {
+  margin-right: 20px;
+}

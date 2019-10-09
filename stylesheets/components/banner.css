@@ -1,0 +1,28 @@
+.banner {
+  /*height: calc(100vh - 90px);*/
+  height: 70vh;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.banner-content {
+  color: white;
+  text-align: center;
+}
+
+.banner-content h3 {
+  font-size: 40px;
+  opacity: 0.7;
+}
+
+.banner-content h2 {
+  font-size: 72px;
+  margin:20px 0 !important;
+}
+
+.banner-content a{
+  color: white;
+}

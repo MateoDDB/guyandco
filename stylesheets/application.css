@@ -1,0 +1,21 @@
+@import "components/navbar.css";
+@import "components/banner.css";
+@import "components/btn.css";
+@import "components/horaire.css";
+
+@import url('https://fonts.googleapis.com/css?family=Grenze&display=swap');
+/*@import url('https://fonts.googleapis.com/css?family=Rye&display=swap');*/
+/*@import url('https://fonts.googleapis.com/css?family=Smokum&display=swap');*/
+
+body,header,nav,h1,h2,h3 {
+  margin:0 !important;
+  padding:0 !important;
+  font-family: 'Grenze', serif !important;
+  /*font-family: 'Rye', cursive !important;*/
+  /*font-family: 'Smokum', cursive !important;*/
+}
+
+.margin-top {
+  margin-top: 40px;
+}
+
