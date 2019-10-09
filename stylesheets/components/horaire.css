@@ -6,3 +6,15 @@
 .days-open {
   font-size: 24px;
 }
+
+.title-home {
+  font-size: 40px;
+}
+
+.effect-css {
+  height: 400px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}

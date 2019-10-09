@@ -1,8 +1,9 @@
 .navbar{
-  background: #CC2638;
   padding: 10px 20px !important;
   margin:0;
   height: 90px;
+  background-size: cover;
+  background-position: center;
 }
 
 .navbar img {
