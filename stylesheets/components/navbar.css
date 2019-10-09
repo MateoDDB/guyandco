@@ -1,9 +1,12 @@
-.navbar{
-  padding: 10px 20px !important;
-  margin:0;
-  height: 90px;
+nav {
   background-size: cover;
   background-position: top;
+}
+.navbar{
+  padding: 10px 10px !important;
+  height: 90px;
+  max-width: 1140px;
+  margin: 0 auto;
 }
 
 .navbar img {
