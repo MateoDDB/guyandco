@@ -2,6 +2,7 @@
 @import "components/banner.css";
 @import "components/btn.css";
 @import "components/horaire.css";
+@import "components/paralaxe.css";
 
 /*@import url('https://fonts.googleapis.com/css?family=Grenze&display=swap');*/
 @import url('https://fonts.googleapis.com/css?family=Rye&display=swap');
@@ -13,6 +14,10 @@ body,header,nav,h1,h2,h3 {
   /*font-family: 'Grenze', serif !important;*/
   font-family: 'Rye', cursive !important;
   /*font-family: 'Smokum', cursive !important;*/
+}
+
+body {
+  /*overflow: hidden;*/
 }
 
 .margin-top {

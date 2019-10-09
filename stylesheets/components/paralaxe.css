@@ -1,0 +1,20 @@
+.effect-css {
+  height: 400px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+
+.paralaxe {
+  color: white;
+  margin-top: 180px;
+}
+
+.paralaxe h2{
+  font-size: 56px;
+}
+
+.paralaxe p{
+  font-size: 100px;
+}
