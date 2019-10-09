@@ -24,3 +24,67 @@ body {
   margin-top: 40px;
 }
 
+/*Tablette ----------------> */
+@media screen and (max-width:995px) {
+  /*Banner*/
+  .banner-content h3{
+    font-size: 24px;
+  }
+  .banner-content h2{
+    font-size: 48px;
+
+  }
+  .banner-content h4{
+    font-size: 20px;
+  }
+
+  /*Horaire*/
+  .responsive-horaire {
+    text-align: center;
+  }
+
+  /*Paralaxe*/
+  /*.paralaxe h2{
+    font-size: 40px;
+  }*/
+  .paralaxe p{
+    font-size: 56px;
+  }
+
+  .responsive-paralaxe {
+    margin-top: 170px !important;
+  }
+}
+
+@media screen and (max-width:766px) {
+  .paralaxe h2{
+    font-size: 40px;
+  }
+
+  /*Banner*/
+  .banner-content h3{
+    font-size: 18px;
+  }
+  .banner-content h2{
+    font-size: 40px;
+
+  }
+  .banner-content h4{
+    font-size: 16px;
+  }
+
+  /*Horaire*/
+  .responsive-horaire {
+    text-align: center;
+  }
+}
+@media screen and (max-width:575px) {
+  .paralaxe {
+    margin-top: 80px !important;
+    text-align: center;
+  }
+
+  .banner-content {
+    margin: 0 10px;
+  }
+}
