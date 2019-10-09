@@ -9,8 +9,10 @@
 
 .btn-white:hover {
   text-decoration: none;
-  color: white;
-  opacity: 1;
+  /*color: white;
+  opacity: 1;*/
+  background: white;
+  color: black;
 }
 
 .btn-banner {
