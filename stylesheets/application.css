@@ -61,6 +61,14 @@ body {
   .card-rs p {
     font-size: 18px;
   }
+
+  .card-rs {
+    padding: 80px 0;
+  }
+
+  .wrapper-contact {
+    padding: 40px 0;
+  }
 }
 
 @media screen and (max-width:766px) {
@@ -106,10 +114,6 @@ body {
   .wrapper-contact h2 {
     font-size: 32px;
   }
-
-  .wrapper-contact {
-    padding: 40px 0;
-  }
 }
 @media screen and (max-width:575px) {
   .banner-content h2{
@@ -133,6 +137,10 @@ body {
 
   .wrapper-contact h2 {
     font-size: 24px;
+  }
+
+  .wrapper-contact {
+    padding: 30px 0;
   }
 }
 
