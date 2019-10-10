@@ -31,7 +31,6 @@ body {
   /*Banner*/
   .banner-content h2{
     font-size: 48px;
-
   }
 
   /*Horaire*/
@@ -58,11 +57,13 @@ body {
   }
 
   /*Banner*/
+  .banner-content h3{
+    font-size: 18px;
+  }
   .banner-content h2{
     font-size: 40px;
 
   }
-
   /*Horaire*/
   .responsive-horaire {
     text-align: center;
