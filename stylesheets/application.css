@@ -41,6 +41,10 @@ body {
     text-align: center;
   }
 
+  .img-horaire {
+    display: none !important;
+  }
+
   /*Paralaxe*/
   /*.paralaxe h2{
     font-size: 40px;
