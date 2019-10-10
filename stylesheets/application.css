@@ -106,6 +106,10 @@ body {
   .wrapper-contact h2 {
     font-size: 32px;
   }
+
+  .wrapper-contact {
+    padding: 40px 0;
+  }
 }
 @media screen and (max-width:575px) {
   .banner-content h2{
