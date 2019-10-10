@@ -5,6 +5,7 @@
 @import "components/paralaxe.css";
 @import "components/produits.css";
 @import "components/footer.css";
+@import "components/contact.css";
 
 /*@import url('https://fonts.googleapis.com/css?family=Grenze&display=swap');*/
 @import url('https://fonts.googleapis.com/css?family=Rye&display=swap');
@@ -56,6 +57,10 @@ body {
   .responsive-paralaxe {
     margin-top: 170px !important;
   }
+
+  .card-rs p {
+    font-size: 18px;
+  }
 }
 
 @media screen and (max-width:766px) {
@@ -93,6 +98,14 @@ body {
   .responsive-img-produit {
     margin-top: 40px;
   }
+
+  .card-rs {
+    padding: 50px 0;
+  }
+
+  .wrapper-contact h2 {
+    font-size: 32px;
+  }
 }
 @media screen and (max-width:575px) {
   .banner-content h2{
@@ -109,6 +122,13 @@ body {
   }
   .navbar a{
     font-size: 18px;
+  }
+  .card-rs {
+    padding: 30px 0;
+  }
+
+  .wrapper-contact h2 {
+    font-size: 24px;
   }
 }
 
