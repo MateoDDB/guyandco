@@ -4,6 +4,7 @@
 @import "components/horaire.css";
 @import "components/paralaxe.css";
 @import "components/produits.css";
+@import "components/footer.css";
 
 /*@import url('https://fonts.googleapis.com/css?family=Grenze&display=swap');*/
 @import url('https://fonts.googleapis.com/css?family=Rye&display=swap');
@@ -82,6 +83,16 @@ body {
   .navbar {
     flex-direction: column;
     height: 130px;
+  }
+  .information-footer p {
+    font-size: 16px;
+  }
+
+  .information-footer a {
+    font-size: 16px;
+  }
+  .img-footer {
+    margin-bottom: 40px;
   }
 }
 @media screen and (max-width:575px) {
