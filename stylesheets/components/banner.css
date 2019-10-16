@@ -40,8 +40,16 @@
   font-size: 16px;
   transition: 0.5s ease;
 }
+ .btn-phone {
+    transition: 0.5s ease;
+ }
 
 .btn-itineraire:hover {
+  text-decoration: none;
+  color:#cc2638;
+}
+
+.btn-phone:hover {
   text-decoration: none;
   color:#cc2638;
 }
