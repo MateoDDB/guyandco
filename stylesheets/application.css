@@ -115,6 +115,11 @@ body {
   .wrapper-contact h2 {
     font-size: 32px;
   }
+
+  /*footer*/
+  .footer {
+    height: 390px;
+  }
 }
 @media screen and (max-width:575px) {
   .banner-content h2{
@@ -155,5 +160,8 @@ body {
   }
   .navbar a{
     font-size: 16px;
+  }
+  .footer {
+    height: 370px;
   }
 }
