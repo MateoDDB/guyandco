@@ -78,6 +78,10 @@ body {
     font-size: 40px;
   }
 
+  .effect-css {
+    background-attachment: local;
+  }
+
   /*Banner*/
   .banner-content h2{
     font-size: 40px;
