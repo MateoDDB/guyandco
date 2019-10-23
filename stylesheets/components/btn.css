@@ -8,11 +8,11 @@
 
 .btn-white:hover {
   text-decoration: none;
-  background: white;
-  color: black;
+  border: 2px solid #FED766;
+  background: #23211B;
+  color: #FED766;
 }
 
 .btn-banner {
   margin-top: 40px;
 }
-

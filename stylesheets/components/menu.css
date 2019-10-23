@@ -8,4 +8,6 @@
 .wrapper-menu {
   padding: 40px 0;
   border-top: 5px solid #23211B;
+  background-position: center;
+  background-size: cover;
 }

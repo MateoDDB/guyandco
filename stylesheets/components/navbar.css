@@ -18,9 +18,9 @@ nav {
 }
 
 .navbar a {
-  color: black;
   font-size: 22px;
   transition: 0.5s ease;
+  color: black;
 }
 
 .navbar a:hover {

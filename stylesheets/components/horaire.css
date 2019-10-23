@@ -1,7 +1,7 @@
 .wrapper-horaire {
   padding: 40px 0;
   background-size: cover;
-  background-position: center;
+  background-position: top;
 }
 .img-horaire img {
   width: 100%;
@@ -14,4 +14,19 @@
 
 .title-home {
   font-size: 40px;
+  /*color: #99582A;*/
+}
+
+.background {
+  background-size: cover;
+  background-position: center;
+}
+
+.background {
+  background-size: cover;
+  background-position: center;
+  color:white;
+  border-radius:4px;
+  padding: 20px 20px;
+  border-top: 4px solid #FED766;
 }
