@@ -21,6 +21,7 @@ nav {
   font-size: 22px;
   transition: 0.5s ease;
   color: black;
+  font-weight: bold !important;
 }
 
 .navbar a:hover {
