@@ -10,15 +10,18 @@
 @import "components/color.css";
 
 /*@import url('https://fonts.googleapis.com/css?family=Grenze&display=swap');*/
-@import url('https://fonts.googleapis.com/css?family=Rye&display=swap');
+/*@import url('https://fonts.googleapis.com/css?family=Rye&display=swap');*/
 /*@import url('https://fonts.googleapis.com/css?family=Smokum&display=swap');*/
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
 
 body,header,nav,h1,h2,h3 {
   margin:0 !important;
   padding:0 !important;
   /*font-family: 'Grenze', serif !important;*/
-  font-family: 'Rye', cursive !important;
+  /*font-family: 'Rye', cursive !important;*/
   /*font-family: 'Smokum', cursive !important;*/
+  font-family: 'Roboto', sans-serif;
+
 }
 
 body {
