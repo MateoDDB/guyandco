@@ -26,9 +26,9 @@ nav {
 
 .navbar a:hover {
   text-decoration: none;
-  color: red;
-  /*opacity: red;*/
+  color: #CD533B;
 }
+
 .btn-nav {
   margin-right: 20px;
 }
